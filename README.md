@@ -6,7 +6,6 @@ In my spare time, I like to travel, learn new languages.
 
 My languages and tools
 <p>
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> </a>
    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="typescript" width="40" height="40"/> </a>
    <a href="https://www.python.org/" target="_blank"> <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColorr" alt="python"
  width="40" height="40"/> </a>
