@@ -2,7 +2,7 @@
 
 I am independent and well-organized in my work. I enjoy solving problems and trying new technologies. Having working experience in Software Development as an Analyst, I'm well familiar with the development process and different methodologies.
 
-In my spare time, I like to travel, learn new languages.
+In my spare time I like to travel and learn new languages.
 
 My languages and tools
 <p>
